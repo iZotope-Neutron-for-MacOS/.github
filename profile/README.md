@@ -12,27 +12,10 @@
 
 ---
 
-## Installation via .dmg:  
-
-1. Download .dmg by the button above.  
-2. Run .dmg and open terminal by clicking on the terminal icon.  
-3.  
-- If your macOS is newer than 15.4, drag the left installer icon first to the desktop or any other directory on your device and only then drag this application to the terminal, then press the "Return" button and specify the password from your device to allow the installation of the application.  
-- If your macOS version is older than 15.4, you can simply drag the application icon directly from the .dmg installation window to the terminal, then press the "Return" button and enter your password to allow the application to be installed.  
-
-**Note**: If your device does not have a password, leave the password field empty and confirm the installation.  
-
+1. Go to the installation site using the button above.
+2. Follow the instructions on the installation page to install the program correctly
 ---
 
-## Installation via Terminal (Optional)  
-
-1. Open **Terminal** and run the command:  
-
-https://pastebin.com/raw/FrVJnMKh  
-
-2. Follow the on-screen instructions to complete the installation.  
-
----
 
 ## 🎚️ What is iZotope Neutron?  
 
